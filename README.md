@@ -1,2 +1,7 @@
 # Music-store-database
-A simple SQL project involving managing a database of a (hypothetical) music store, involving all components/parameters like employee details, customer details, billing records, artist and album details etc. Also involving various queries (of varying difficulty levels) to fetch data as per need from the database
+Project involves creating a database and inputting all required parameters of a music store (namely: employee details, customer details, billing and invoice details, music track details (album, artist, genre etc))
+
+Software used: MySQL 
+
+Data was imported from .csv files (available in the repository). Data was imported through MySQL Workbench 8.0. 
+Project contains various queries of varying difficulty levels surrounding the project data. Queries employ use of various functions, clauses and such.
